@@ -43,7 +43,7 @@ In this directory we store **historic time series** and **historic predictions**
 #### Time Series
 * **File names format:** ts_Country_yyyy-mm-dd.csv
 * This directory is where we store the time series of the class ``Country()`` defined in the [COVID-19 notebook](https://github.com/CarlosDNieto/COVID-19/blob/master/COVID-19.ipynb)
-* This Time Series are updated easily with the function ``export_country_df(country)`` defined in the notebook described above. 
+* This Time Series are updated easily with the function ``export_time_series(country)`` defined in the notebook described above. 
 > **Note:** The parameter ``country`` is a string of the name of the desired country to export.
 
 #### Predictions
