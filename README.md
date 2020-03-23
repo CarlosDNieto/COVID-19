@@ -38,7 +38,7 @@ In this repo there are 2 main **jupyter notebooks:**
 ---
 
 ## Countries
-Actually in this directory there is only another directory called 'Mexico' where there are stored the **historic time series** and **historic predictions**.
+In this directory we store **historic time series** and **historic predictions** of the different countries in our main DataFrame in the [COVID-19 notebook](https://github.com/CarlosDNieto/COVID-19/blob/master/COVID-19.ipynb).
 
 #### Time Series
 * **File names format:** ts_Country_yyyy-mm-dd.csv
