@@ -3,7 +3,7 @@ In this moment of time the world is going through a difficult stage, mainly in e
 
 Although this is most probably a transitory event, there are lifes at risk because of this. Even if there are 2 or 20,000, or 2 million lifes that could be taken away, this is the most important thing that the countries governments and the society should be caring about, in order to take actions to lower the negative impact and the time we will be in this contingency. 
 
-To take actions we need to know the problem. The better we now it, the better and faster we can solve that problem. So, I've made this repo as a personal proyect to get to know the actual problem from my perspective and I hope that this is of help to someone. 
+To take actions we need to know the problem. The better we now it, the better and faster we can solve that problem. So, I've made this repo as a personal proyect to get to know the actual problem from my perspective and I hope that this could be helpful for someone.
 
 If you have any comments or feedback please contact me by direct message or send me an email to **nietolo.carlos@gmail.com** I'll be a pleased to answer your questions or to recieve feedback from more experienced people than me.
 
