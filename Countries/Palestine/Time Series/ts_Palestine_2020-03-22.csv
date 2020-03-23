@@ -1,0 +1,4 @@
+Last Update,Latitude,Longitude,Confirmed,Deaths,Recovered,Mortality Rate,Dif Confirmed,Dif Confirmed%,Dif Deaths,Dif Deaths%,Dif Recovered,Dif Recovered%,Factor Confirmed
+2020-03-05,31.9522,35.2332,4.0,0.0,0.0,0.0,,,,,,,
+2020-03-06,31.9522,35.2332,16.0,0.0,0.0,0.0,12.0,3.0,0.0,,0.0,,4.0
+2020-03-07,31.9522,35.2332,22.0,0.0,0.0,0.0,6.0,0.375,0.0,,0.0,,1.375
