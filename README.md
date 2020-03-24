@@ -18,7 +18,7 @@ In this repo there are 2 main **jupyter notebooks:**
 * Notebook with the data from the [Daily technical releases](https://www.gob.mx/salud/documentos/coronavirus-covid-19-comunicado-tecnico-diario-238449) of the **General Division of Emidemiology** of Mexico.
 * Contains a small exploratory data analysis of the confirmed cases **per age and state** in Mexico with several charts that are displayed below.
 
-![chart1](figs/confirmed_per_age.png)
+![chart1](figs/confirmed_per_age2.png)
 
 ![chart2](figs/confirmed_per_age_sex.png)
 
