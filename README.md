@@ -20,7 +20,7 @@ In this repo there are 2 main **jupyter notebooks:**
 
 ![chart1](figs/confirmed_per_age2.png)
 
-![chart2](figs/confirmed_per_age_sex.png)
+![chart2](figs/confirmed_per_age_sex2.png)
 
 
 ![chart3](figs/confirmed_individual_age.png)
